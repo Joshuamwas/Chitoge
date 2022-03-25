@@ -29,7 +29,7 @@
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
+    [Chitoge-Guides](https://github.com/ShineiIchijo/exraybot/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
